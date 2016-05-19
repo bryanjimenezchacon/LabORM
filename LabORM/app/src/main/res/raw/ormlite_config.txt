@@ -1,0 +1,23 @@
+# --table-start--
+dataClass=itcr.laborm.entities.Contact
+tableName=contacts
+# --table-fields-start--
+# --field-start--
+fieldName=contactId
+colunmnName=contact_id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=name
+columnName=name
+# --field-end--
+# --field-start--
+fieldName=phone
+colunmnName=phone
+# --field-end--
+# --field-start--
+fieldName=email
+colunmnName=email
+# --field-end--
+# --table-fields-end
+# --table-end--
